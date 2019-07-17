@@ -49,7 +49,7 @@ class App extends React.Component {
 
   render() {
 
-    var listsCopy = Array.from(this.state.ingredients)
+    //var listsCopy = Array.from(this.state.ingredients)
     var newListsCopy = Array.from(this.state.burgerStack)
 
     return (
